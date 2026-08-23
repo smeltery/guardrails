@@ -1,4 +1,4 @@
-package com.dotbrains.service.config.properties;
+package com.smeltery.service.config.properties;
 
 import java.util.Arrays;
 import java.util.List;

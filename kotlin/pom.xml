@@ -8,7 +8,7 @@
 		<version>3.0.1</version>
 		<relativePath/>
 	</parent>
-	<groupId>com.dotbrains</groupId>
+	<groupId>com.smeltery</groupId>
 	<artifactId>Service</artifactId>
 	<version>0.0.1</version>
 	<name>Service</name>
@@ -107,7 +107,7 @@
 
 	<profiles>
 		<profile>
-			<id>dotbrains</id>
+			<id>smeltery</id>
 			<activation>
 				<activeByDefault>true</activeByDefault>
 			</activation>

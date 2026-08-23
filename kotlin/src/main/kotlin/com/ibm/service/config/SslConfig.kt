@@ -1,4 +1,4 @@
-package com.dotbrains.service.config
+package com.smeltery.service.config
 
 import org.slf4j.LoggerFactory
 import org.springframework.beans.factory.annotation.Value

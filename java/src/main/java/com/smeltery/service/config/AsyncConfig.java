@@ -1,6 +1,6 @@
-package com.dotbrains.service.config;
+package com.smeltery.service.config;
 
-import com.dotbrains.service.exception.CustomAsyncExceptionHandler;
+import com.smeltery.service.exception.CustomAsyncExceptionHandler;
 import java.util.concurrent.Executor;
 import java.util.concurrent.ThreadPoolExecutor;
 import org.springframework.aop.interceptor.AsyncUncaughtExceptionHandler;

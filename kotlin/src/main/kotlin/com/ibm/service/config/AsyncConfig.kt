@@ -1,6 +1,6 @@
-package com.dotbrains.service.config
+package com.smeltery.service.config
 
-import com.dotbrains.service.exceptions.CustomAsyncExceptionHandler
+import com.smeltery.service.exceptions.CustomAsyncExceptionHandler
 import org.springframework.aop.interceptor.AsyncUncaughtExceptionHandler
 import org.springframework.context.annotation.Configuration
 import org.springframework.scheduling.annotation.AsyncConfigurer

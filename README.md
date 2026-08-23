@@ -28,7 +28,7 @@ Please see the [Gitflow](/resources/gitflow_proposal_240802.pdf) presentation fo
 Start by cloning the project.
 
 ```bash
-git clone --recurse-submodules https://github.com/dotbrains/guardrails
+git clone --recurse-submodules https://github.com/smeltery/guardrails
 ```
 
 Then, execute the [`change_organization_name.py`](scripts/change_organization_name.py) script to change the organization name to your organization name.
@@ -82,13 +82,13 @@ Mend is utilized at the repository level to scan for vulnerabilities in the proj
 
 The following sub-projects are included in this boilerplate:
 
-- [base-images-blueprint](https://github.com/dotbrains/base-images-blueprint): A set of base images used by the CI/CD pipeline
-- [boilerplate-technical-documentation](https://github.com/dotbrains/boilerplate-technical-documentation): A base project for technical documentation.
-- [appscan-sast-travis-integration](https://github.com/dotbrains/appscan-sast-travis-integration): A base project for AppScan SAST integration with Travis CI.
-- [contrast-security-sast-travis-integration](https://github.com/dotbrains/contrast-security-sast-travis-integration): A base project for Contrast Security SAST integration with Travis CI.
-- [create-tagged-releases](https://github.com/dotbrains/create-tagged-releases): A Python script to create tagged releases for GitHub repositories.
-- [Travis CI Shared Configurations](https://github.com/dotbrains/travis-shared-config): A set of shared configurations for Travis CI used to ensure consistency across multiple projects.
-- [Travis CI Image Signing Example](https://github.com/dotbrains/image-signing-travis-example): An example of how to sign images in Travis CI.
+- [base-images-blueprint](https://github.com/smeltery/base-images-blueprint): A set of base images used by the CI/CD pipeline
+- [boilerplate-technical-documentation](https://github.com/smeltery/boilerplate-technical-documentation): A base project for technical documentation.
+- [appscan-sast-travis-integration](https://github.com/smeltery/appscan-sast-travis-integration): A base project for AppScan SAST integration with Travis CI.
+- [contrast-security-sast-travis-integration](https://github.com/smeltery/contrast-security-sast-travis-integration): A base project for Contrast Security SAST integration with Travis CI.
+- [create-tagged-releases](https://github.com/smeltery/create-tagged-releases): A Python script to create tagged releases for GitHub repositories.
+- [Travis CI Shared Configurations](https://github.com/smeltery/travis-shared-config): A set of shared configurations for Travis CI used to ensure consistency across multiple projects.
+- [Travis CI Image Signing Example](https://github.com/smeltery/image-signing-travis-example): An example of how to sign images in Travis CI.
 - [java](java): A base project for Java projects
 - [kotlin](kotlin): A base project for Kotlin projects
 - [js](js): A base project for JavaScript projects
@@ -167,7 +167,7 @@ The banners can be found in the `src/main/resources` directory and are named `ba
 
 ## License
 
-© DotBrains
+© Smeltery
 
 This software is free and may be redistributed under the terms specified in the [LICENSE] file.
 

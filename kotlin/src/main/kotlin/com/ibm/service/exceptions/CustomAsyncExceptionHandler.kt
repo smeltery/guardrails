@@ -1,4 +1,4 @@
-package com.dotbrains.service.exceptions
+package com.smeltery.service.exceptions
 
 import org.slf4j.LoggerFactory
 import org.springframework.aop.interceptor.AsyncUncaughtExceptionHandler

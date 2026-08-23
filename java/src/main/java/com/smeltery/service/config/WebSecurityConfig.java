@@ -1,10 +1,10 @@
-package com.dotbrains.service.config;
+package com.smeltery.service.config;
 
 import java.util.Arrays;
 import java.util.Collections;
 
-import com.dotbrains.service.config.properties.Properties;
-import com.dotbrains.service.config.properties.WebSecurity;
+import com.smeltery.service.config.properties.Properties;
+import com.smeltery.service.config.properties.WebSecurity;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.security.config.annotation.web.builders.HttpSecurity;

@@ -32,7 +32,7 @@ spring:
 logging:
   level:
     root: INFO
-    com.dotbrains.service: ${SERVICE_LOG_LEVEL:INFO}
+    com.smeltery.service: ${SERVICE_LOG_LEVEL:INFO}
     org.springframework.web: INFO
 
 application:

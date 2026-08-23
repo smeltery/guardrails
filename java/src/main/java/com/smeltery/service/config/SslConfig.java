@@ -1,4 +1,4 @@
-package com.dotbrains.service.config;
+package com.smeltery.service.config;
 
 import java.io.IOException;
 import org.slf4j.Logger;

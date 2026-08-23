@@ -1,4 +1,4 @@
-package com.dotbrains.service.config
+package com.smeltery.service.config
 
 import org.springframework.boot.convert.ApplicationConversionService
 import org.springframework.context.annotation.Configuration

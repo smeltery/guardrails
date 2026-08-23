@@ -1,4 +1,4 @@
-package com.dotbrains.service.config.properties
+package com.smeltery.service.config.properties
 
 class WebSecurity {
 	private val corsAllowedOrigins: String? = null

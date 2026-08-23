@@ -1,4 +1,4 @@
-package com.dotbrains.service.config.properties
+package com.smeltery.service.config.properties
 
 import org.springframework.boot.context.properties.ConfigurationProperties
 import org.springframework.context.annotation.Configuration

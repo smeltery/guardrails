@@ -1,7 +1,7 @@
-package com.dotbrains.service.config
+package com.smeltery.service.config
 
-import com.dotbrains.service.config.properties.Properties
-import com.dotbrains.service.config.properties.WebSecurity
+import com.smeltery.service.config.properties.Properties
+import com.smeltery.service.config.properties.WebSecurity
 import jakarta.servlet.http.HttpServletRequest
 import org.springframework.context.annotation.Bean
 import org.springframework.context.annotation.Configuration
