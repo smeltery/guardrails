@@ -7,9 +7,9 @@
       <option name="url" value="https://repo.maven.apache.org/maven2" />
     </remote-repository>
     <remote-repository>
-      <option name="id" value="dotbrains-thirdparty" />
-      <option name="name" value="dotbrains - Third Party" />
-      <option name="url" value="https://na.artifactory.swg-devops.com/artifactory/txo-dotbrains-next-gen-thirdparty-maven-local/" />
+      <option name="id" value="smeltery-thirdparty" />
+      <option name="name" value="smeltery - Third Party" />
+      <option name="url" value="https://na.artifactory.swg-devops.com/artifactory/txo-smeltery-next-gen-thirdparty-maven-local/" />
     </remote-repository>
     <remote-repository>
       <option name="id" value="central" />
@@ -22,14 +22,14 @@
       <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
     </remote-repository>
     <remote-repository>
-      <option name="id" value="dotbrains-release" />
-      <option name="name" value="dotbrains- Release" />
-      <option name="url" value="https://na.artifactory.swg-devops.com/artifactory/txo-dotbrains-next-gen-release-maven-local/" />
+      <option name="id" value="smeltery-release" />
+      <option name="name" value="smeltery- Release" />
+      <option name="url" value="https://na.artifactory.swg-devops.com/artifactory/txo-smeltery-next-gen-release-maven-local/" />
     </remote-repository>
     <remote-repository>
-      <option name="id" value="dotbrains-snapshot" />
-      <option name="name" value="dotbrains - Snapshot" />
-      <option name="url" value="https://na.artifactory.swg-devops.com/artifactory/txo-dotbrains-next-gen-snapshot-maven-local/" />
+      <option name="id" value="smeltery-snapshot" />
+      <option name="name" value="smeltery - Snapshot" />
+      <option name="url" value="https://na.artifactory.swg-devops.com/artifactory/txo-smeltery-next-gen-snapshot-maven-local/" />
     </remote-repository>
   </component>
 </project>
